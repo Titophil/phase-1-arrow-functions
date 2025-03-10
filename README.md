@@ -122,7 +122,7 @@ becomes optional:
 
 ```js
 const twoAdder = x => x + 2;
-// is the same as
+// is the same asiii
 const twoAdder = (x) => x + 2;
 ```
 
